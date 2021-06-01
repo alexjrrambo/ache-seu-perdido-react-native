@@ -6,7 +6,7 @@
     "slug": "react-native-project",
     "version": "1.0.0",
     "assetBundlePatterns": [
-      "**/*"
+      "src/**/*"
     ]
   }
 }
